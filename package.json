@@ -1,0 +1,18 @@
+{
+  "name": "drag-n-drop-ts",
+  "version": "1.0.0",
+  "description": "Drag & Drop Typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Hazel Cajalne",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
